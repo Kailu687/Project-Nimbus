@@ -5,9 +5,13 @@ Thrilled to present Project Nimbus, our entry for the Smart India Hackathon inte
 Our challenge was to build:
 
 A drone capable of operating in disaster zones
+
 AI-based real-time navigation + obstacle avoidance
+
 Payload capacity ≥ 5 kg
+
 Reliable delivery to remote locations
+
 Traditional drones either lack range (multirotors) or require runways (fixed‑wings).
 
 
@@ -17,10 +21,17 @@ Our solution??? Nimbus 007.
 Nimbus solves this through a hybrid VTOL + fixed‑wing configuration.
 
 Nimbus 007 Highlights
+
 MTOW: 23 kg (Payload: 7 kg + 0.5 kg safety margin)
+
 Range: ~40 km
+
 Cruise Speed: ~68 km/hr
+
 VTOL takeoff + 90° tilt-rotor forward flight transition
+
 Avionics: Custom Pixhawk-class MCU (STM32H743VIHx)
+
 Redundant power distribution + safety logic
+
 CAD Design: FreeCAD for structural modeling + analysis
